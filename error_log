@@ -1,0 +1,7 @@
+[10-Apr-2015 15:49:17 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function fwrite_stream() in /home/bachvx123/public_html/laytin/application/modules/laytin/models/Laytin.php on line 57
+[10-Apr-2015 15:50:22 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function fwrite_stream() in /home/bachvx123/public_html/laytin/application/modules/laytin/models/Laytin.php on line 57
+[10-Apr-2015 16:06:27 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function fwrite_stream() in /home/bachvx123/public_html/laytin/application/modules/laytin/models/Laytin.php on line 57
+[10-Apr-2015 16:16:15 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function fwrite_stream() in /home/bachvx123/public_html/laytin/application/modules/laytin/models/Laytin.php on line 57
+[10-Apr-2015 16:32:29 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function fwrite_stream() in /home/bachvx123/public_html/laytin/application/modules/laytin/models/Laytin.php on line 57
+[10-Apr-2015 16:32:54 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function fwrite_stream() in /home/bachvx123/public_html/laytin/application/modules/laytin/models/Laytin.php on line 57
+[11-Apr-2015 07:27:28 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function fwrite_stream() in /home/bachvx123/public_html/laytin/application/modules/laytin/models/Laytin.php on line 57
